@@ -1,0 +1,14 @@
+11/18/20 9:44 AM
+Project Statistics
+
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
+Total:           	      41	  831	                       4457	                         5227	     1	
+Remaining:       	      36	  691	                       3652	                         4289	     1	
+Unique:          	      41	  831	                       4457	                         5227	     1	
+Unique Remaining:	      36	  691	                       3652	                         4289	     1	
+
+
+Individual File Statistics:
+
+File Name                                                          	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+the-core-invoice-usage-specification-cius-and-its-use-in-peppol.txt	            41	                36	             41	                       36	        831	            691	         831	                   691	                             4457	                                 3652	                              4457	                                        3652	                               5227	                                   4289	                                5227	                                          4289	

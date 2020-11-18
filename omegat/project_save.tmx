@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Core Invoice Usage Specification (CIUS) and its use in PEPPOL</seg>
+      </tuv>
+      <tuv lang="JA" changeid="eito" changedate="20201117T141624Z" creationid="eito" creationdate="20201117T141624Z">
+        <seg>コアインボイス用法仕様 (CIUS) と PEPPOL での利用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The European Committee for Standardisation (CEN) technical committee TC434 published the European standard EN16931 (linked below) on 28 June 2017, which defines a semantic data model for a core invoice, compliant with the European Directive on electronic invoicing for public authorities (2014/55/EU).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="eito" changedate="20201117T224947Z" creationid="eito" creationdate="20201117T224947Z">
+        <seg>欧州標準化委員会 (CEN) 技術委員会 TC434 は、2017年6月28日に欧州規格 EN16931 (下のリンク参照) を発行した。この規格では、国家機関での電子インボイスについての欧州指針  (2014/55/EU) に準拠するコアインボイス向けのセマンティックデータモデルを定義します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The data model of this European standard contains many optional elements, however specific countries, groups, or organisations may create individual specifications for the core invoice model (known as a ‘CIUS’) in their respective domains.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="eito" changedate="20201117T225415Z" creationid="eito" creationdate="20201117T225415Z">
+        <seg>この欧州規格のデータモデルは多くの人に要素が含まれています。しかしながら、特定の国々、団体、そして、組織において、それぞれの領域でコアインボイス向けの独自規格（'CIUS' と知られる）を策定することが認められています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is a CIUS?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="eito" changedate="20201117T225428Z" creationid="eito" creationdate="20201117T225428Z">
+        <seg>CIUS とは?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“A “Core Invoice Usage Specification” (CIUS) is a specification that provides a seller with detailed guidance, explanations and examples, as well as rules (business rules) related to the actual implementation and use of structured information elements present in the core invoice model in a specific trading situation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="eito" changedate="20201117T230022Z" creationid="eito" creationdate="20201117T230022Z">
+        <seg>「コアインボイス利用規格」 (CIUS) では、販売者向けに取引状況に応じたコアインボイスモデルに構造化された情報要素の実装と利用に関連する規則（ビジネスルール）とともに詳しいガイド、説明、例を提供しています。</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
